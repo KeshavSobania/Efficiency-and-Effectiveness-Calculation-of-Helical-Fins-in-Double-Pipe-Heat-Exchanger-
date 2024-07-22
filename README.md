@@ -21,3 +21,10 @@ This project investigates the performance enhancements achievable through the ap
  ## Conclusion
 This project underscores the practical benefits of incorporating helical fins into double-pipe heat exchangers, providing valuable insights for optimizing heat transfer systems in industrial applications. The findings demonstrate the potential for significant improvements in thermal performance, contributing to more efficient and effective heat exchanger designs.
 
+## Team Contributions
+
+Our team of six worked collaboratively on this project, with each member playing a crucial role. One member led the ANSYS simulations to model the heat exchanger’s behavior, while another designed and managed the experimental setup and data collection. A third member conducted a thorough literature review. I was responsible for setting up the experimental apparatus, performing research, and assisting with calculations for the heat transfer coefficients and efficiency analysis. The remaining team members contributed to various aspects of data analysis and project coordination, ensuring a comprehensive and effective approach to evaluating the heat exchanger performance.
+
+ ## Acknowledgement
+ 
+We would like to express our sincere gratitude to Prof. Biswajit Saha for their invaluable guidance and expertise throughout this heat transfer project. Their insightful feedback and dedication greatly enriched our learning and helped us achieve our research goals. We also extend our appreciation to the teaching assistants, Mata Subhashita and Kaustubh Goswami, for their constant support and willingness to answer our questions. Their clear explanations and helpfulness were instrumental in navigating the complexities of this project. 
